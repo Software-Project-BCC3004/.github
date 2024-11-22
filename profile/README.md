@@ -16,7 +16,7 @@ Add objectives here.
 
 - **UX-UI:**
 
-Add technologies here.
+Figma
 
 - **Front-end:**
 
