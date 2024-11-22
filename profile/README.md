@@ -1,4 +1,8 @@
-<p align="center"> <img height="200px" src="https://avatars.githubusercontent.com/u/189394862?s=400&u=665c7579b2577c8f5575bef64ae2ac89498e9e6e&v=4"> </p>
+<p align="center"> 
+  <img height="200px" 
+       src="https://avatars.githubusercontent.com/u/189394862?s=400&u=665c7579b2577c8f5575bef64ae2ac89498e9e6e&v=4"
+       style="border: 3px solid #4A90E2; border-radius: 50%;">
+</p>
 
 ## Descrição
 
