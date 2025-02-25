@@ -4,30 +4,73 @@
        style="border: 3px solid #4A90E2; border-radius: 50%;">
 </p>
 
-## Descrição
+# 📌 Projeto - Sistema de Hospitais Pediátricos (PEWS)
 
-Add description here.
+Este projeto tem como objetivo desenvolver um sistema para hospitais pediátricos utilizando a escala PEWS (Pediatric Early Warning Score) para monitoramento de pacientes.
 
-## Objetivos
+## 🛠 Tecnologias Utilizadas
 
-Add objectives here.
+### 🎨 UX/UI
+- [Figma](https://www.figma.com/) - Protótipos e Design
 
-## Tecnologias Utilizadas
+### 💻 Front-end
+- [Flutter](https://flutter.dev/) - Desenvolvimento mobile e web
 
-- **UX-UI:**
+### 🚀 Back-end
+- [Java](https://www.java.com/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
 
-Figma
+### 🗄 Banco de Dados
+- [PostgreSQL](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/) - Containerização
 
-- **Front-end:**
+## 📌 Como Executar o Projeto
 
-Add technologies here.
-- **Back-end:**
+### 🔧 Pré-requisitos
+Antes de começar, certifique-se de ter instalado:
+- [Docker](https://www.docker.com/get-started)
+- [Java 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- [Maven](https://maven.apache.org/download.cgi)
 
-Add technologies here.
+### 🚀 Rodando o Backend
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+2. Acesse a pasta do backend:
+   ```sh
+   cd backend
+   ```
+ 3. Compile o projeto executando o seguinte comando no mesmo diretório que está o `pom.xml`:
+     ```sh
+     cd backend\pews.back
+     mvn clean package
+     ```
+4. Execute o Docker Compose para subir o banco de dados:
+   ```sh
+   docker-compose up -d
+   ```
+5. Inicie a aplicação Spring Boot:
+   ```sh
+   ./mvnw spring-boot:run
+   ```
 
-- **Banco de Dados:**
+### 📱 Rodando o Frontend
+1. Acesse a pasta do frontend:
+   ```sh
+   cd frontend
+   ```
+2. Instale as dependências:
+   ```sh
+   flutter pub get
+   ```
+3. Execute o projeto:
+   ```sh
+   flutter run
+   ```
 
-Add technologies here.
 
 ## Autores
 
