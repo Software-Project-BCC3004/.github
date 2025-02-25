@@ -83,6 +83,9 @@ Este projeto conta com a colaboração dos seguintes estudantes:
     <a href="https://github.com/gabfarmarcondes" target="_blank">
     <img height="200px" src="https://avatars.githubusercontent.com/u/39389389?v=4">
   </a>
+    <a href="https://www.github.com/Zidani135" target="_blank">
+    <img height="200px" src="https://avatars.githubusercontent.com/u/49240429?v=4">
+  </a>
 </p>
 
 ## Licença
